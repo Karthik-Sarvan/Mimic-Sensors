@@ -8,7 +8,7 @@
 
 ## Overview
 
-Mimic is an open-source hardware bridge designed for prototyping IoT and aerospace applications. It allows you to connect a host computer to physical hardware peripherals via Python, enabling basic sensor emulation and protocol testing.
+Mimic is an open-source hardware bridge designed for prototyping IoT and Hardware applications. It allows you to connect a host computer to physical hardware peripherals via Python, enabling basic sensor emulation and protocol testing.
 
 This project provides a collection of sensor simulation modules (such as MPU6050, BMP280, and GPS) that integrate with the Mimic Framework, allowing developers to interact with hardware without complex or proprietary tools.
 
